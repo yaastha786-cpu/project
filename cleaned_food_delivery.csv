@@ -1,0 +1,101 @@
+order_id,customer_id,order_datetime,city,restaurant_name,cuisine_type,num_items,order_value_inr,discount_inr,delivery_fee_inr,final_amount_inr,payment_method,distance_km,traffic_level,weather_condition,prep_time_mins,total_delivery_time_mins,order_status,customer_rating,rider_id,order_hour,order_day
+ORD-1001,CUST-540,2026-10-04 13:47:00,Bangalore,Wok & Roll,Chinese,2,421.4,0.0,45.0,466.4,Wallet,9.5,High,Rainy,10,62,Delivered,2.0,RDR-102,13,Sunday
+ORD-1002,CUST-535,2026-10-07 21:26:00,Mumbai,Healthy Bowl Co.,Healthy Food,5,736.65,0.0,0.0,736.65,UPI,9.7,High,Clear,14,56,Delivered,3.0,RDR-106,21,Wednesday
+ORD-1003,CUST-524,2026-10-04 09:54:00,Bangalore,Sushi Express,Japanese,3,1334.27,200.14,0.0,1134.13,Debit Card,7.1,Low,Hot,0,0,Cancelled,,RDR-124,9,Sunday
+ORD-1004,CUST-536,2026-10-07 20:02:00,Ghaziabad,Wok & Roll,Chinese,3,1565.79,0.0,0.0,1565.79,Debit Card,10.9,High,Clear,15,62,Delivered,2.0,RDR-105,20,Wednesday
+ORD-1005,CUST-538,2026-10-21 19:34:00,Ghaziabad,Wok & Roll,Chinese,2,840.94,84.09,0.0,756.85,Debit Card,12.4,High,Rainy,11,74,Delivered,1.0,RDR-126,19,Wednesday
+ORD-1006,CUST-517,2026-10-03 22:58:00,Pune,Dosa Plaza,South Indian,2,1092.07,163.81,0.0,928.26,Wallet,11.2,Low,Rainy,17,68,Delivered,2.0,RDR-128,22,Saturday
+ORD-1007,CUST-557,2026-10-19 12:23:00,Mumbai,PizzaCraft,Italian,5,1016.57,0.0,0.0,1016.57,Cash on Delivery,10.9,Low,Clear,29,61,Delivered,2.0,RDR-134,12,Monday
+ORD-1008,CUST-516,2026-10-18 12:43:00,Ghaziabad,Biryani Blues,Biryani,6,1570.22,157.02,0.0,1413.2,Debit Card,9.8,Low,Clear,24,52,Delivered,3.0,RDR-133,12,Sunday
+ORD-1009,CUST-548,2026-10-06 19:58:00,Delhi,Burger Barn,Fast Food,6,1079.96,0.0,0.0,1079.96,UPI,2.6,High,Cloudy,0,0,Cancelled,,RDR-121,19,Tuesday
+ORD-1010,CUST-531,2026-10-01 12:59:00,Bangalore,Burger Barn,Fast Food,2,315.3,63.06,25.0,277.24,Credit Card,1.8,Low,Clear,0,0,Cancelled,,RDR-109,12,Thursday
+ORD-1011,CUST-542,2026-10-16 22:10:00,Bangalore,Tandoori Nights,North Indian,5,925.08,0.0,0.0,925.08,Cash on Delivery,11.7,Medium,Cloudy,22,71,Delivered,3.0,RDR-134,22,Friday
+ORD-1012,CUST-528,2026-10-04 13:14:00,Delhi,Dosa Plaza,South Indian,1,959.8,0.0,0.0,959.8,Debit Card,7.7,High,Clear,17,51,Delivered,1.0,RDR-105,13,Sunday
+ORD-1013,CUST-532,2026-10-08 19:42:00,Hyderabad,Wok & Roll,Chinese,5,547.01,109.4,0.0,437.61,Debit Card,7.5,High,Clear,16,50,Delivered,4.0,RDR-128,19,Thursday
+ORD-1014,CUST-526,2026-10-15 19:43:00,Ghaziabad,Biryani Blues,Biryani,1,718.41,71.84,0.0,646.57,Cash on Delivery,10.2,Medium,Clear,0,0,Cancelled,,RDR-109,19,Thursday
+ORD-1015,CUST-527,2026-10-06 19:29:00,Mumbai,Biryani Blues,Biryani,4,1380.43,276.09,0.0,1104.34,Credit Card,1.9,High,Cloudy,12,36,Delivered,5.0,RDR-127,19,Tuesday
+ORD-1016,CUST-531,2026-10-16 22:55:00,Hyderabad,Spice Route Kitchen,North Indian,2,732.67,109.9,0.0,622.77,Credit Card,3.9,Medium,Cloudy,27,49,Delivered,4.0,RDR-119,22,Friday
+ORD-1017,CUST-513,2026-10-02 21:03:00,Ghaziabad,Dosa Plaza,South Indian,1,260.19,39.03,45.0,266.16,UPI,11.6,Low,Rainy,0,0,Cancelled,,RDR-112,21,Friday
+ORD-1018,CUST-504,2026-10-20 20:43:00,Noida,Wok & Roll,Chinese,4,485.85,97.17,25.0,413.68,Debit Card,7.6,Low,Clear,28,82,Delayed,2.0,RDR-116,20,Tuesday
+ORD-1019,CUST-516,2026-10-13 13:42:00,Ghaziabad,Burger Barn,Fast Food,4,741.03,0.0,0.0,741.03,Credit Card,0.9,High,Rainy,12,40,Delivered,4.0,RDR-123,13,Tuesday
+ORD-1020,CUST-556,2026-10-03 13:23:00,Bangalore,PizzaCraft,Italian,4,1413.87,141.39,0.0,1272.48,Credit Card,8.0,High,Hot,27,66,Delivered,3.0,RDR-117,13,Saturday
+ORD-1021,CUST-507,2026-10-29 22:47:00,Pune,PizzaCraft,Italian,3,651.28,0.0,0.0,651.28,UPI,9.2,Medium,Clear,26,61,Delivered,4.0,RDR-106,22,Thursday
+ORD-1022,CUST-540,2026-10-14 19:02:00,Delhi,Dosa Plaza,South Indian,2,1068.25,106.83,0.0,961.42,UPI,2.7,High,Clear,0,0,Cancelled,,RDR-108,19,Wednesday
+ORD-1023,CUST-504,2026-10-29 14:34:00,Delhi,Dosa Plaza,South Indian,5,1093.28,163.99,0.0,929.29,UPI,2.3,High,Clear,21,39,Delivered,3.0,RDR-123,14,Thursday
+ORD-1024,CUST-549,2026-10-18 13:39:00,Ghaziabad,PizzaCraft,Italian,2,1363.99,0.0,0.0,1363.99,Credit Card,11.1,High,Clear,23,74,Delivered,3.0,RDR-118,13,Sunday
+ORD-1025,CUST-510,2026-10-26 22:24:00,Noida,Spice Route Kitchen,North Indian,4,619.16,92.87,0.0,526.29,Debit Card,4.9,High,Cloudy,10,42,Delivered,4.0,RDR-105,22,Monday
+ORD-1026,CUST-549,2026-10-09 09:41:00,Pune,Sweet Tooth Bakery,Desserts,6,1695.49,339.1,0.0,1356.39,UPI,4.7,High,Clear,15,44,Delivered,5.0,RDR-107,9,Friday
+ORD-1027,CUST-538,2026-10-14 09:46:00,Noida,Dosa Plaza,South Indian,4,1118.07,223.61,0.0,894.46,Wallet,2.2,Low,Foggy,23,35,Delivered,5.0,RDR-113,9,Wednesday
+ORD-1028,CUST-523,2026-10-14 20:42:00,Bangalore,Sushi Express,Japanese,3,1147.4,0.0,0.0,1147.4,Credit Card,9.2,Medium,Clear,20,55,Delivered,2.0,RDR-113,20,Wednesday
+ORD-1029,CUST-526,2026-10-22 11:43:00,Ghaziabad,PizzaCraft,Italian,5,1114.84,167.23,0.0,947.61,Cash on Delivery,7.2,Low,Clear,28,53,Delivered,2.0,RDR-129,11,Thursday
+ORD-1030,CUST-543,2026-10-07 19:30:00,Noida,PizzaCraft,Italian,6,530.23,106.05,0.0,424.18,UPI,8.6,Low,Rainy,19,57,Delivered,1.0,RDR-103,19,Wednesday
+ORD-1031,CUST-515,2026-10-16 20:29:00,Hyderabad,Sushi Express,Japanese,2,1173.85,176.08,0.0,997.77,Wallet,6.6,High,Clear,13,49,Delivered,3.0,RDR-130,20,Friday
+ORD-1032,CUST-503,2026-10-18 13:58:00,Noida,Biryani Blues,Biryani,4,503.34,75.5,0.0,427.84,Cash on Delivery,8.6,High,Hot,29,74,Delivered,3.0,RDR-129,13,Sunday
+ORD-1033,CUST-557,2026-10-06 17:28:00,Bangalore,Wok & Roll,Chinese,6,780.5,156.1,0.0,624.4,Wallet,6.5,Low,Clear,17,37,Delivered,4.0,RDR-106,17,Tuesday
+ORD-1034,CUST-508,2026-10-05 12:24:00,Ghaziabad,PizzaCraft,Italian,6,698.14,104.72,0.0,593.42,UPI,5.6,Low,Rainy,23,53,Delivered,3.0,RDR-125,12,Monday
+ORD-1035,CUST-530,2026-10-01 09:19:00,Noida,Sweet Tooth Bakery,Desserts,4,1029.69,205.94,0.0,823.75,Cash on Delivery,10.2,Medium,Foggy,23,70,Delivered,2.0,RDR-111,9,Thursday
+ORD-1036,CUST-553,2026-10-15 13:39:00,Pune,Spice Route Kitchen,North Indian,4,1099.46,0.0,0.0,1099.46,Cash on Delivery,1.8,Jam,Clear,11,38,Delivered,4.0,RDR-121,13,Thursday
+ORD-1037,CUST-521,2026-10-25 11:17:00,Noida,Sweet Tooth Bakery,Desserts,3,1370.38,205.56,0.0,1164.82,UPI,1.0,Jam,Rainy,17,56,Delivered,3.0,RDR-102,11,Sunday
+ORD-1038,CUST-560,2026-10-08 21:53:00,Delhi,Sushi Express,Japanese,2,550.11,82.52,0.0,467.59,UPI,8.6,Medium,Rainy,21,64,Delivered,3.0,RDR-111,21,Thursday
+ORD-1039,CUST-519,2026-10-04 13:59:00,Bangalore,Sushi Express,Japanese,6,1600.43,240.06,0.0,1360.37,Wallet,5.4,Low,Cloudy,13,35,Delivered,5.0,RDR-108,13,Sunday
+ORD-1040,CUST-550,2026-10-19 14:22:00,Pune,Sweet Tooth Bakery,Desserts,6,901.74,180.35,0.0,721.39,Cash on Delivery,8.4,Low,Clear,13,40,Delivered,4.0,RDR-110,14,Monday
+ORD-1041,CUST-527,2026-10-06 20:41:00,Bangalore,Sushi Express,Japanese,5,1382.03,207.3,0.0,1174.73,Cash on Delivery,5.9,Medium,Cloudy,12,37,Delivered,4.0,RDR-125,20,Tuesday
+ORD-1042,CUST-521,2026-10-01 18:54:00,Bangalore,PizzaCraft,Italian,4,605.76,60.58,0.0,545.18,UPI,4.8,Medium,Foggy,27,52,Delivered,4.0,RDR-116,18,Thursday
+ORD-1043,CUST-546,2026-10-14 18:35:00,Noida,Wok & Roll,Chinese,6,1038.92,155.84,0.0,883.08,Cash on Delivery,6.0,Low,Clear,17,36,Delivered,4.0,RDR-134,18,Wednesday
+ORD-1044,CUST-522,2026-10-14 22:21:00,Bangalore,Healthy Bowl Co.,Healthy Food,3,683.61,0.0,0.0,683.61,Credit Card,2.2,Low,Clear,0,0,Cancelled,,RDR-113,22,Wednesday
+ORD-1045,CUST-513,2026-10-24 17:17:00,Ghaziabad,Sushi Express,Japanese,5,1150.83,0.0,0.0,1150.83,UPI,10.5,Low,Clear,10,46,Delivered,3.0,RDR-104,17,Saturday
+ORD-1046,CUST-535,2026-10-10 13:40:00,Noida,Healthy Bowl Co.,Healthy Food,1,1329.54,265.91,0.0,1063.63,UPI,4.1,Medium,Clear,18,41,Delivered,4.0,RDR-126,13,Saturday
+ORD-1047,CUST-531,2026-10-03 23:40:00,Ghaziabad,Spice Route Kitchen,North Indian,2,433.96,86.79,35.0,382.17,Wallet,1.8,Medium,Clear,29,42,Delivered,4.0,RDR-125,23,Saturday
+ORD-1048,CUST-528,2026-10-30 15:19:00,Noida,Sushi Express,Japanese,4,726.99,145.4,0.0,581.59,Credit Card,1.5,Low,Hot,30,35,Delivered,5.0,RDR-116,15,Friday
+ORD-1049,CUST-511,2026-10-18 20:10:00,Delhi,Sweet Tooth Bakery,Desserts,4,1226.18,183.93,0.0,1042.25,Wallet,4.2,High,Clear,12,40,Delivered,5.0,RDR-113,20,Sunday
+ORD-1050,CUST-527,2026-10-04 21:14:00,Ghaziabad,PizzaCraft,Italian,3,1359.62,0.0,0.0,1359.62,Cash on Delivery,1.5,High,Cloudy,19,65,Delayed,3.0,RDR-118,21,Sunday
+ORD-1051,CUST-532,2026-10-18 18:28:00,Delhi,Sushi Express,Japanese,1,1351.25,135.12,0.0,1216.13,Debit Card,7.9,Low,Clear,28,73,Delayed,3.0,RDR-103,18,Sunday
+ORD-1052,CUST-548,2026-10-25 20:30:00,Pune,Healthy Bowl Co.,Healthy Food,3,520.94,104.19,0.0,416.75,UPI,5.9,Jam,Cloudy,21,64,Delivered,2.0,RDR-111,20,Sunday
+ORD-1053,CUST-521,2026-10-14 18:18:00,Ghaziabad,Sweet Tooth Bakery,Desserts,5,422.71,0.0,35.0,457.71,UPI,3.8,Medium,Clear,0,0,Cancelled,,RDR-135,18,Wednesday
+ORD-1054,CUST-529,2026-10-14 19:12:00,Pune,Dosa Plaza,South Indian,5,1358.38,203.76,0.0,1154.62,UPI,9.7,High,Clear,24,71,Delivered,2.0,RDR-116,19,Wednesday
+ORD-1055,CUST-545,2026-10-06 21:35:00,Delhi,Tandoori Nights,North Indian,4,451.17,0.0,35.0,486.17,Cash on Delivery,11.9,Medium,Rainy,26,84,Delivered,2.0,RDR-131,21,Tuesday
+ORD-1056,CUST-515,2026-10-15 22:09:00,Hyderabad,Wok & Roll,Chinese,5,1035.71,0.0,0.0,1035.71,UPI,10.9,Medium,Clear,20,64,Delivered,2.0,RDR-119,22,Thursday
+ORD-1057,CUST-546,2026-10-10 18:55:00,Mumbai,Healthy Bowl Co.,Healthy Food,5,1004.64,100.46,0.0,904.18,Cash on Delivery,7.3,Medium,Rainy,16,61,Delivered,2.0,RDR-115,18,Saturday
+ORD-1058,CUST-554,2026-10-25 13:02:00,Bangalore,Healthy Bowl Co.,Healthy Food,6,1607.46,241.12,0.0,1366.34,Wallet,5.3,High,Cloudy,25,61,Delivered,1.0,RDR-122,13,Sunday
+ORD-1059,CUST-555,2026-10-04 15:06:00,Pune,Healthy Bowl Co.,Healthy Food,1,1134.18,170.13,0.0,964.05,UPI,11.0,Low,Hot,20,59,Delivered,2.0,RDR-122,15,Sunday
+ORD-1060,CUST-554,2026-10-22 21:24:00,Bangalore,Healthy Bowl Co.,Healthy Food,5,421.67,0.0,25.0,446.67,UPI,8.2,Jam,Hot,23,78,Delivered,3.0,RDR-129,21,Thursday
+ORD-1061,CUST-510,2026-10-23 21:57:00,Delhi,Spice Route Kitchen,North Indian,3,1319.99,132.0,0.0,1187.99,Credit Card,5.0,Medium,Clear,28,51,Delivered,1.0,RDR-106,21,Friday
+ORD-1062,CUST-539,2026-10-28 11:39:00,Ghaziabad,Wok & Roll,Chinese,4,1516.68,0.0,0.0,1516.68,Credit Card,3.5,Medium,Rainy,24,56,Delivered,3.0,RDR-105,11,Wednesday
+ORD-1063,CUST-528,2026-10-12 21:40:00,Hyderabad,Burger Barn,Fast Food,4,1428.9,0.0,0.0,1428.9,Debit Card,12.5,Medium,Foggy,28,81,Delivered,2.0,RDR-102,21,Monday
+ORD-1064,CUST-553,2026-10-22 12:17:00,Delhi,Sushi Express,Japanese,6,1431.81,0.0,0.0,1431.81,Credit Card,11.5,High,Cloudy,17,70,Delivered,2.0,RDR-117,12,Thursday
+ORD-1065,CUST-543,2026-10-25 13:40:00,Delhi,Spice Route Kitchen,North Indian,3,1310.19,0.0,0.0,1310.19,Credit Card,7.6,Low,Cloudy,20,49,Delivered,3.0,RDR-135,13,Sunday
+ORD-1066,CUST-556,2026-10-12 20:32:00,Bangalore,PizzaCraft,Italian,3,1473.26,220.99,0.0,1252.27,Credit Card,12.1,Jam,Clear,24,89,Delivered,1.0,RDR-126,20,Monday
+ORD-1067,CUST-554,2026-10-26 22:23:00,Delhi,Sweet Tooth Bakery,Desserts,1,538.8,0.0,0.0,538.8,UPI,6.1,Medium,Cloudy,22,72,Delayed,2.0,RDR-121,22,Monday
+ORD-1068,CUST-558,2026-10-20 12:41:00,Delhi,Healthy Bowl Co.,Healthy Food,6,812.85,121.93,0.0,690.92,Credit Card,2.2,Low,Clear,13,18,Delivered,5.0,RDR-125,12,Tuesday
+ORD-1069,CUST-529,2026-10-12 21:26:00,Pune,PizzaCraft,Italian,4,1181.4,177.21,0.0,1004.19,Debit Card,8.0,Medium,Hot,16,49,Delivered,5.0,RDR-107,21,Monday
+ORD-1070,CUST-543,2026-10-12 21:57:00,Ghaziabad,Dosa Plaza,South Indian,1,712.58,0.0,0.0,712.58,UPI,12.1,High,Hot,16,71,Delivered,3.0,RDR-104,21,Monday
+ORD-1071,CUST-550,2026-10-11 13:08:00,Noida,Sushi Express,Japanese,2,329.19,65.84,25.0,288.35,Credit Card,7.7,Medium,Cloudy,29,58,Delivered,3.0,RDR-109,13,Sunday
+ORD-1072,CUST-534,2026-10-09 20:07:00,Ghaziabad,Spice Route Kitchen,North Indian,2,259.32,0.0,45.0,304.32,Cash on Delivery,4.6,Low,Clear,26,39,Delivered,3.0,RDR-124,20,Friday
+ORD-1073,CUST-532,2026-10-19 22:28:00,Pune,Wok & Roll,Chinese,5,431.37,86.27,35.0,380.1,Cash on Delivery,6.2,Low,Hot,22,44,Delivered,3.0,RDR-105,22,Monday
+ORD-1074,CUST-557,2026-10-03 22:38:00,Mumbai,Biryani Blues,Biryani,2,597.52,119.5,0.0,478.02,Debit Card,7.2,Jam,Clear,0,0,Cancelled,,RDR-130,22,Saturday
+ORD-1075,CUST-532,2026-10-20 14:06:00,Noida,Biryani Blues,Biryani,6,1266.19,253.24,0.0,1012.95,Cash on Delivery,9.2,Medium,Clear,23,57,Delivered,2.0,RDR-107,14,Tuesday
+ORD-1076,CUST-520,2026-10-14 22:42:00,Bangalore,Dosa Plaza,South Indian,2,1132.87,169.93,0.0,962.94,Wallet,1.6,Low,Cloudy,21,32,Delivered,5.0,RDR-122,22,Wednesday
+ORD-1077,CUST-542,2026-10-04 13:22:00,Noida,Sweet Tooth Bakery,Desserts,6,486.88,48.69,45.0,483.19,Wallet,4.5,High,Clear,25,50,Delivered,3.0,RDR-124,13,Sunday
+ORD-1078,CUST-507,2026-10-25 19:36:00,Mumbai,Sweet Tooth Bakery,Desserts,5,1641.91,328.38,0.0,1313.53,Debit Card,8.0,Low,Rainy,10,46,Delivered,4.0,RDR-122,19,Sunday
+ORD-1079,CUST-522,2026-10-01 20:55:00,Mumbai,Sushi Express,Japanese,6,941.02,0.0,0.0,941.02,Credit Card,9.5,Low,Hot,0,0,Cancelled,,RDR-125,20,Thursday
+ORD-1080,CUST-526,2026-10-15 08:10:00,Bangalore,Burger Barn,Fast Food,6,841.7,168.34,0.0,673.36,Cash on Delivery,7.8,Low,Foggy,11,60,Delayed,3.0,RDR-129,8,Thursday
+ORD-1081,CUST-526,2026-10-09 22:48:00,Pune,Biryani Blues,Biryani,3,843.89,84.39,0.0,759.5,UPI,8.7,Medium,Rainy,11,55,Delivered,4.0,RDR-101,22,Friday
+ORD-1082,CUST-513,2026-10-10 22:49:00,Mumbai,Burger Barn,Fast Food,3,711.56,0.0,0.0,711.56,Credit Card,6.6,Low,Clear,0,0,Cancelled,,RDR-133,22,Saturday
+ORD-1083,CUST-535,2026-10-27 09:04:00,Hyderabad,Spice Route Kitchen,North Indian,4,354.36,0.0,35.0,389.36,Debit Card,7.5,Medium,Rainy,19,58,Delivered,1.0,RDR-111,9,Tuesday
+ORD-1084,CUST-551,2026-10-20 16:53:00,Ghaziabad,Dosa Plaza,South Indian,1,762.73,0.0,0.0,762.73,Credit Card,3.6,Medium,Rainy,19,50,Delivered,3.0,RDR-105,16,Tuesday
+ORD-1085,CUST-532,2026-10-21 12:33:00,Pune,Wok & Roll,Chinese,3,741.43,0.0,0.0,741.43,Cash on Delivery,3.6,Low,Clear,14,41,Delayed,4.0,RDR-130,12,Wednesday
+ORD-1086,CUST-548,2026-10-19 15:43:00,Pune,Sushi Express,Japanese,3,1408.52,140.85,0.0,1267.67,UPI,2.6,Low,Clear,18,28,Delivered,5.0,RDR-120,15,Monday
+ORD-1087,CUST-529,2026-10-15 14:03:00,Bangalore,Burger Barn,Fast Food,1,1033.07,0.0,0.0,1033.07,UPI,8.0,Medium,Rainy,0,0,Cancelled,,RDR-129,14,Thursday
+ORD-1088,CUST-558,2026-10-26 23:41:00,Mumbai,Dosa Plaza,South Indian,5,993.32,0.0,0.0,993.32,Credit Card,12.0,High,Clear,12,63,Delivered,1.0,RDR-129,23,Monday
+ORD-1089,CUST-528,2026-10-17 20:39:00,Mumbai,Dosa Plaza,South Indian,3,1478.32,221.75,0.0,1256.57,Cash on Delivery,5.6,High,Clear,12,42,Delivered,4.0,RDR-119,20,Saturday
+ORD-1090,CUST-516,2026-10-24 14:21:00,Delhi,Sushi Express,Japanese,6,603.86,60.39,0.0,543.47,Wallet,4.4,Medium,Cloudy,29,53,Delivered,1.0,RDR-125,14,Saturday
+ORD-1091,CUST-541,2026-10-26 08:52:00,Mumbai,Tandoori Nights,North Indian,1,1034.83,155.22,0.0,879.61,Credit Card,6.7,Low,Clear,20,46,Delivered,4.0,RDR-109,8,Monday
+ORD-1092,CUST-509,2026-10-03 20:54:00,Noida,Biryani Blues,Biryani,5,1377.14,275.43,0.0,1101.71,Wallet,1.2,High,Clear,29,45,Delivered,3.0,RDR-111,20,Saturday
+ORD-1093,CUST-546,2026-10-15 14:26:00,Bangalore,Wok & Roll,Chinese,4,1123.77,168.57,0.0,955.2,Cash on Delivery,3.5,Jam,Clear,16,49,Delivered,5.0,RDR-130,14,Thursday
+ORD-1094,CUST-549,2026-10-10 11:32:00,Pune,Sweet Tooth Bakery,Desserts,2,1301.96,260.39,0.0,1041.57,Wallet,2.4,Medium,Clear,27,44,Delivered,4.0,RDR-108,11,Saturday
+ORD-1095,CUST-518,2026-10-03 19:17:00,Hyderabad,Tandoori Nights,North Indian,2,1320.36,0.0,0.0,1320.36,Debit Card,11.9,High,Clear,10,60,Delivered,2.0,RDR-116,19,Saturday
+ORD-1096,CUST-524,2026-10-03 10:14:00,Delhi,Dosa Plaza,South Indian,1,1285.93,128.59,0.0,1157.34,Wallet,10.1,Low,Clear,14,49,Delivered,4.0,RDR-101,10,Saturday
+ORD-1097,CUST-557,2026-10-03 13:16:00,Mumbai,PizzaCraft,Italian,5,1597.29,319.46,0.0,1277.83,Wallet,7.0,Medium,Clear,13,38,Delivered,4.0,RDR-130,13,Saturday
+ORD-1098,CUST-504,2026-10-04 18:38:00,Pune,Spice Route Kitchen,North Indian,6,1089.99,0.0,0.0,1089.99,UPI,9.2,Low,Clear,17,48,Delivered,3.0,RDR-134,18,Sunday
+ORD-1099,CUST-523,2026-10-03 20:34:00,Pune,Tandoori Nights,North Indian,5,401.43,60.21,25.0,366.22,UPI,8.2,Medium,Hot,21,58,Delivered,2.0,RDR-122,20,Saturday
+ORD-1100,CUST-508,2026-10-02 09:34:00,Bangalore,PizzaCraft,Italian,6,1024.01,153.6,0.0,870.41,Credit Card,8.2,Low,Cloudy,11,39,Delivered,3.0,RDR-103,9,Friday
